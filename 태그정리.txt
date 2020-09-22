@@ -1,0 +1,19 @@
+<strong> 두꺼운 글씨
+<u> 밑줄
+<h1> ~ <h6> 헤더 두껍고 줄바꾸고 큼
+
+<ul> -> unordered list
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
+
+<ol> -> ordered list
+	<li></li>
+	<li></li>
+	<li></li>
+</ol>                           ## 이녀석은 자동 넘버링
+
+
+<title> ->웹 제목 검색앤진도 이녀석을 활용
+<a> 닷 
